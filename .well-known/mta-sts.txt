@@ -5,3 +5,4 @@ mx: *.googlemail.com
 mx: *.aspmx.l.google.com
 mx: aspmx.l.google.com
 mx: *.ummon.com
+mx: *.protonmail.ch
