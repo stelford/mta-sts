@@ -4,3 +4,4 @@ max_age: 604800
 mx: *.googlemail.com
 mx: *.aspmx.l.google.com
 mx: aspmx.l.google.com
+mx: *.ummon.com
